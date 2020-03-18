@@ -206,6 +206,7 @@ $(document).ready(function () {
         }
       });
     }
+
     // get current history, if any
     // assign value of history variable
     // JSON makes it possible to store JavaScript objects as text.
